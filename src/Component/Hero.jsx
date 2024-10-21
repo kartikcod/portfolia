@@ -6,6 +6,14 @@ export const Hero = () => {
     <>
     <div >
         <img src={background} alt="bg image" /> 
+        <div>
+            <div>
+
+            </div>
+            <div>
+                
+            </div>
+        </div>
     </div>
      
     </>
